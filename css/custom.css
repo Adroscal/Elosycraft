@@ -14,6 +14,30 @@
     font-family: "Comfortaa-light" ;
     src: url("fonts/Comfortaa-light.otf");
 }
+
+
+@font-face {
+    font-family: "GeosansLight";
+    src: url(fonts/GeosansLight.ttf);
+}
+
+@font-face {
+    font-family: "GeosansLightOblique";
+    src: url(fonts/GeosansLight-Oblique.ttf);
+}
+
+
+
+.helvetica{
+    font-family: "Helvetica", 'Arial', sans-serif;
+}
+.geosanslight{
+    font-family: "GeosansLight";
+}
+
+.geosanslightoblique{
+    font-family: "GeosansLightOblique";
+}
 .comfortaa-regular{
     font-family: "Comfortaa-regular";
 }
@@ -64,9 +88,10 @@
 
 .home-box{
     background-color: #222222;
-    color: white;
+    color: #276BB0;
     border-radius: 14px;
     padding: 20px;
+    
     
 }
 
