@@ -26,7 +26,11 @@
     src: url(fonts/GeosansLight-Oblique.ttf);
 }
 
-
+@font-face {
+    font-family: "MavenPro";
+    src: url('fonts/MavenPro-VariableFont_wght.ttf');
+    font-weight: 450;
+}
 
 .helvetica{
     font-family: "Helvetica", 'Arial', sans-serif;
@@ -52,7 +56,11 @@
     font-family: "Comfortaa-light" ;
 }
 
+.mavenpro{
+    
+    font-family: "MavenPro";
 
+}
 .title-bg{
 
 
@@ -83,15 +91,20 @@
 .bg-img-style{
     object-position: 0 -200px;
     opacity: 60%;
-    filter: grayscale(70%)
+    filter: grayscale(70%) contrast(300%);
 }
 
 .home-box{
     background-color: #222222;
-    color: #276BB0;
+    color: white;
     border-radius: 14px;
     padding: 20px;
     
-    
 }
 
+
+.hr{
+    border: 3px solid #57acdc;
+    border-radius: 3px;
+    opacity: 100%;
+}
