@@ -154,3 +154,7 @@ object-fit:cover; /* Do not scale the image */
     border-radius: 5px !important;
 }
 
+
+.footer{
+    background-color: #222222;
+}
