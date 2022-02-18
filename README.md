@@ -1,7 +1,6 @@
 # Elosycraft
 
 Elosycraft is a website destinated to my multiple projects.
-<<<<<<< HEAD
 This repository is only for learning the basics of github (for now).
 
 
