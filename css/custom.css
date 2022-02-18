@@ -89,9 +89,9 @@
 }
 
 .bg-img-style{
-    object-position: 0 -200px;
-    opacity: 60%;
-    filter: grayscale(70%) contrast(300%);
+    object-position: -1100px -1700px;
+    opacity: 30%;
+    filter: contrast(100%) saturate(150%) grayscale(100%);
 }
 
 .home-box{
