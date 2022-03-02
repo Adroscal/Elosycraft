@@ -158,3 +158,11 @@ object-fit:cover; /* Do not scale the image */
 .footer{
     background-color: #222222;
 }
+
+
+
+.gradient{
+    background: radial-gradient(ellipse at top, #55ffe5, #9f07ff, transparent),
+                radial-gradient(ellipse at bottom,#5214b8, #350da8, transparent);
+    background-repeat: no-repeat;
+}
